@@ -19,8 +19,8 @@ Appropriately labels the data set with descriptive activity names.
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 run_analysis.R
-Downloads and unzip the folder with the dataset
-Takes the two datasets train and test and get them merged togheter
-Takes only the column with std and mean
-Gives the right name to the activities and variables
-Creates a separate dataset with the average of each variable for each activity and each subject
+Downloads and unzip the folder with the dataset,
+Takes the two datasets train and test and get them merged togheter,
+Takes only the column with std and mean,
+Gives the right name to the activities and variables,
+Creates a separate dataset with the average of each variable for each activity and each subject.
